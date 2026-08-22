@@ -1,4 +1,4 @@
-# Hi, I'm electr0
+# Hi, I'm Jason
 
 Polymath engineer and builder working across data science, machine learning, robotics, and hardware — with three decades of signal processing behind it, from digital communications to spectroscopy. Currently available for **remote, contract** work.
 
