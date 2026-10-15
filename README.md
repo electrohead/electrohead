@@ -9,9 +9,11 @@ I'm not after a 9-to-5. I work with founders, inventors, and startups who have a
 - "We have a signal and it makes no sense."
 - "This prototype has to exist and nobody here has built one like it."
 - "We have data nobody trusts, and we need an answer anyway."
-- "It's half hardware, half software, half science, half art, and it falls between everyone's job."
+- "It's half hardware, half software, half science, half design, and it falls between everyone's job."
 
 Between fields is where I'm useful. Inside one field you want the person who has done that one thing for twenty years, and I'll happily tell you so.
+
+I take it from the idea to a prototype you can hold: the mechanical, the electronics, the software, the systems that tie them together, the design, and the making of it.
 
 ## How I pick
 
@@ -29,7 +31,7 @@ I take a project when it's genuinely interesting, nobody has a tidy answer yet, 
 
 - About a decade as a network architect and engineer in secure communications, 1995 to 2005.
 - Then 15 years as an analytical chemist: spectroscopy, signals, instrumentation.
-- All the way through: art and creative work, design and CAD, 3D printing, electronics, robotics, a lot of code, and enough statistics to turn it into meaning. Handy enough with most of it to be dangerous.
+- All the way through: design and CAD, 3D printing, electronics, robotics, a lot of code, and enough statistics to turn it into meaning. Handy enough with most of it to be dangerous.
 
 ## What I'm building
 
