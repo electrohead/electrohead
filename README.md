@@ -41,7 +41,6 @@ I take a project when it's genuinely interesting, nobody has a tidy answer yet, 
 ## Proof, not adjectives
 
 - **33 poisonous plants drawn from pure maths**, no image model, for [poisongarden.org](https://poisongarden.org), the companion site to a book on poisons I'm writing. The code is going open as a repo.
-- **A plain-English guide** to ComfyUI video and image models: [ComfyUI-MiniMax-H3-Guide](https://github.com/electrohead/ComfyUI-MiniMax-H3-Guide).
 - **About a decade as a network architect and engineer** in secure communications, 1995 to 2005.
 - **Then 15 years as an analytical chemist:** spectroscopy, signals, instrumentation.
 - **All the way through:** design and CAD, 3D printing, electronics, robotics, a lot of code, and enough statistics to turn it into meaning. Handy enough with most of it to be dangerous.
