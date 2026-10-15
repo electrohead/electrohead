@@ -18,7 +18,7 @@ If your problem sits between fields, that's usually where I'm useful.
 - I start from the problem, not from a favorite tool.
 - I learn the missing field fast, and I say so when I'm out of my depth.
 - Failure is how I get there. I'd rather find out on Tuesday than at the launch.
-- I design the system and use AI tools to build it, and I read what they write. I'm getting better at writing the code myself, and I'm doing that in public.
+- I design mechanisms, systems, hardware, code, and use whatever tools are best along the way (yes, sometimes that means AI).
 - I ship things that run, with notes you can read and a straight account of what I'm sure of and what I'm guessing.
 
 ## Where I come from
@@ -26,7 +26,6 @@ If your problem sits between fields, that's usually where I'm useful.
 - About a decade as a network architect and engineer in secure communications, 1995 to 2005.
 - Then 15 years as an analytical chemist: spectroscopy, signals, instrumentation.
 - All the way through: design and CAD, 3D printing, electronics, robotics, a lot of code, and enough statistics to turn it into meaning.
-- Lifetime member of the National Speleological Society. I go underground for fun.
 
 ## What I'm building
 
