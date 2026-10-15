@@ -50,4 +50,6 @@ I take a project when it's genuinely interesting, nobody has a tidy answer yet, 
 
 Tell me what's stuck and I'll tell you quickly whether it's mine.
 
-Start at [electrohead.net](https://electrohead.net).
+**Email:** [jason@electrohead.net](mailto:jason@electrohead.net)
+
+Notes and write-ups live at [electrohead.net](https://electrohead.net).
