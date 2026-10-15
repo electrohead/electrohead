@@ -49,6 +49,6 @@ I take a project when it's genuinely interesting, nobody has a tidy answer yet, 
 
 Tell me what's stuck and I'll tell you quickly whether it's mine.
 
-**Email:** [jason@electrohead.net](mailto:jason@electrohead.net)
+**Email:** [hello@electrohead.net](mailto:hello@electrohead.net)
 
 Notes and write-ups live at [electrohead.net](https://electrohead.net).
